@@ -1,0 +1,26 @@
+Num examples: 1384
+First example:
+No errors found
+Num examples missing system message: 0
+Num examples missing user message: 0
+
+#### Distribution of num_messages_per_example:
+min / max: 3, 3
+mean / median: 3.0, 3.0
+p5 / p95: 3.0, 3.0
+
+#### Distribution of num_total_tokens_per_example:
+min / max: 34, 3802
+mean / median: 421.4443641618497, 265.0
+p5 / p95: 65.0, 996.1000000000001
+
+#### Distribution of num_assistant_tokens_per_example:
+min / max: 3, 1003
+mean / median: 114.02384393063583, 72.0
+p5 / p95: 12.300000000000011, 272.8000000000002
+
+0 examples may be over the 4096 token limit, they will be truncated during fine-tuning
+Dataset has ~583279 tokens that will be charged for during training
+By default, you'll train for 3 epochs on this dataset
+By default, you'll be charged for ~1749837 tokens
+Estimated cost will be ~13.998696$
